@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="/opt/anaconda3" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.16 (sftp://iiishawn@222.195.93.60:1655/home/iiishawn/miniconda3/envs/ms_swift/bin/python)" project-jdk-type="Python SDK" />
+</project>
