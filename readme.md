@@ -7,6 +7,8 @@
 
 ## Model Preparation
 
+* Download checkpoint of PDU from HuggingFace Hub: https://huggingface.co/anonymousUser99/PDU
+* Move model.pth to the root directory of the project
 * Download InternVL2-4B from HuggingFace Hub: https://huggingface.co/OpenGVLab/InternVL2-4B
 * Replace the file "modeling_internvl_chat.py" in the downloaded model with the file provided
 
