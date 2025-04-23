@@ -22,8 +22,10 @@ pip install -r requirements.txt
 
 ## Similarity Score Calculation
 * Replace the base model path where InternVL2-4B stored in "calculate_score.py"
+* We provide two sample input images as "image1.jpg" and "image2.jpg"
 * Run "calculate_score.py" to test the retrieval model
 
 ## Document QA
 * Replace the base model path where InternVL2-4B stored in "generate_answer.py"
+* We provide a sample input document in "/data/demo_doc"
 * Run "generate_answer.py" to test the complete pipeline
