@@ -1,5 +1,5 @@
 # Position-aware Modeling for Fine-grained Long Document Understanding
-![PDU](model_overview.png)
+<img src="model_overview.png" alt="PDU" style="width:60%;" />
 
 This repository contains the source code for the paper "Position-aware Modeling for Fine-grained Long Document Understanding".
 
