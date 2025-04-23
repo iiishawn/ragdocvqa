@@ -1,4 +1,7 @@
-# Source code of Position-aware Modeling for Fine-grained Long Document Understanding
+# Position-aware Modeling for Fine-grained Long Document Understanding
+![PDU](model_overview.png)
+
+This repository contains the source code for the paper "Position-aware Modeling for Fine-grained Long Document Understanding".
 
 ## Environment Setup
 
@@ -19,8 +22,8 @@ pip install -r requirements.txt
 
 ## Similarity Score Calculation
 * Replace the base model path where InternVL2-4B stored in "calculate_score.py"
-* Replace the variable "images, images_y_pos, images_total_height, images_page_idx, document_total_page, questions" in "calculate_score.py"
 * Run "calculate_score.py" to test the retrieval model
 
 ## Document QA
-* Run the code in "generate_answer.py" to test the complete pipeline
+* Replace the base model path where InternVL2-4B stored in "generate_answer.py"
+* Run "generate_answer.py" to test the complete pipeline
