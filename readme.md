@@ -2,8 +2,13 @@
 
 ## Environment Setup
 
-* Python 3.10
-* Use ms_swift > 3.0: https://github.com/modelscope/ms-swift
+* Python=3.10
+* CUDA=11.8
+```shell
+conda create -n pdu python=3.10 -y
+conda activate pdu
+pip install -r requirements.txt
+```
 
 ## Model Preparation
 
